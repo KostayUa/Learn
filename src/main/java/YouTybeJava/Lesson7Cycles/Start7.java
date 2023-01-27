@@ -1,3 +1,5 @@
+package YouTybeJava.Lesson7Cycles;
+
 public class Start7 {
 
     public static void main(String[] args) {

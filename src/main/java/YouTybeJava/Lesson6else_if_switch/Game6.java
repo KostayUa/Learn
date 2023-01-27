@@ -1,3 +1,5 @@
+package YouTybeJava.Lesson6else_if_switch;
+
 import java.io.IOException;
 
 public class Game6 {

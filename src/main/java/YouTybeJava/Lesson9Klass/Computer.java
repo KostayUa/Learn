@@ -1,3 +1,5 @@
+package YouTybeJava.Lesson9Klass;
+
 public class Computer {
     private int memory;
     private int cpu;

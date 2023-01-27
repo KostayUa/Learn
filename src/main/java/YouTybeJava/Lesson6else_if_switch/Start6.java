@@ -1,3 +1,5 @@
+package YouTybeJava.Lesson6else_if_switch;
+
 public class Start6 {
     public static void main(String[] args) {
         int month = 3;

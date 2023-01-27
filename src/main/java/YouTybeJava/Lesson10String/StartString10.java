@@ -1,3 +1,5 @@
+package YouTybeJava.Lesson10String;
+
 public class StartString10 {
     public static void main(String[] args) {
         String str1 = new String("World");
